@@ -1,0 +1,38 @@
+{
+    "name": "youtube-api-functions",
+    "version": "1.0.0",
+    "description": "YouTube Functions is a project with a handful of YouTube API functions.",
+    "author": {
+        "name": "Apteryx",
+        "email": "apteryx.xyz@gmail.com",
+        "url": "https://www.apteryx.xyz/"
+    },
+    "main": "src/index.js",
+    "license": "ISC",
+    "homepage": "https://www.apteryx.xyz/",
+    "bugs": {
+        "url": "https://github.com/ApteryxXYZ/YouTube-API-Functions"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ApteryxXYZ/YouTube-API-Functions"
+    },
+    "bundledDependencies": [],
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "googleapis": "^66.0.0",
+        "ytdl-core": "^4.1.6"
+    },
+    "deprecated": false,
+    "keywords": [
+        "youtube",
+        "api",
+        "v3",
+        "google",
+        "apis",
+        "googleapis",
+        "ytdl",
+        "ytdl-core",
+        ""
+    ]
+}

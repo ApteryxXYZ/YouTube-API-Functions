@@ -1,0 +1,12 @@
+# modules
+node_modules/
+package-lock.json
+
+# videos
+videos/
+videos.json
+
+# secrets
+.env
+client_secret.json
+client_oauth_token.json
